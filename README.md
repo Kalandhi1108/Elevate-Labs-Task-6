@@ -1,5 +1,7 @@
 # Elevate-Labs-Task-6
 
+DATE : 12.08.2025
+
 Objective -  Understand what makes a password strong and test it against password strength tools.
 
 Tool used : https://passwordmeter.com
